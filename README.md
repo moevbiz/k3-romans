@@ -2,6 +2,12 @@
 
 Kirby CMS wrapper around [wandersonwhcr/romans](https://github.com/wandersonwhcr/romans), A Simple PHP Roman Numerals Library
 
+## Install
+
+```
+composer require moevbiz/k3-romans
+```
+
 ## Usage
 
 As a field method:
