@@ -25,4 +25,5 @@ As a page method:
 ## License
 
 Plugin: MIT
+
 Kirby: [Buy](https://getkirby.com/buy)
