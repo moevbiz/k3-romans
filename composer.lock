@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8d5878ecfb607563abbfc24cb3db7a2c",
+    "content-hash": "edb4beef4830b43889cd1b08c1b5a2c7",
     "packages": [
         {
             "name": "getkirby/composer-installer",
@@ -41,6 +41,10 @@
             ],
             "description": "Kirby's custom Composer installer for the Kirby CMS and for Kirby plugins",
             "homepage": "https://getkirby.com",
+            "support": {
+                "issues": "https://github.com/getkirby/composer-installer/issues",
+                "source": "https://github.com/getkirby/composer-installer/tree/1.2.1"
+            },
             "funding": [
                 {
                     "url": "https://getkirby.com/buy",
@@ -51,16 +55,16 @@
         },
         {
             "name": "wandersonwhcr/romans",
-            "version": "v1.3.14",
+            "version": "v1.3.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wandersonwhcr/romans.git",
-                "reference": "54cc7f1fd4ebabe26c5ad6313a55936030144587"
+                "reference": "8daee300e0bfa8309a91462d2fb1ca10768117b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wandersonwhcr/romans/zipball/54cc7f1fd4ebabe26c5ad6313a55936030144587",
-                "reference": "54cc7f1fd4ebabe26c5ad6313a55936030144587",
+                "url": "https://api.github.com/repos/wandersonwhcr/romans/zipball/8daee300e0bfa8309a91462d2fb1ca10768117b3",
+                "reference": "8daee300e0bfa8309a91462d2fb1ca10768117b3",
                 "shasum": ""
             },
             "require": {
@@ -94,7 +98,11 @@
                 "roman-numeral",
                 "validator"
             ],
-            "time": "2021-04-12T16:11:12+00:00"
+            "support": {
+                "issues": "https://github.com/wandersonwhcr/romans/issues",
+                "source": "https://github.com/wandersonwhcr/romans/tree/v1.3.16"
+            },
+            "time": "2021-04-20T10:22:10+00:00"
         }
     ],
     "packages-dev": [],
@@ -105,5 +113,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.0.0"
 }
